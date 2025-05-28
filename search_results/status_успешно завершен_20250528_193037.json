@@ -1,0 +1,5677 @@
+{
+    "search_type": "status",
+    "criteria": "успешно завершен",
+    "timestamp": "2025-05-28 19:30:37",
+    "result_count": 85,
+    "results": [
+        {
+            "Chat_id": 2,
+            "events": [
+                {
+                    "Chat_id": 2,
+                    "name": 410,
+                    "message": 76,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 2,
+                    "name": 847,
+                    "message": 82,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 410,
+                    "operator": 847,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 2,
+                    "name": 95,
+                    "message": 29,
+                    "date": "05/28/25",
+                    "time": "19:25:39"
+                },
+                {
+                    "Chat_id": 2,
+                    "name": 129,
+                    "message": 60,
+                    "date": "05/28/25",
+                    "time": "19:25:39"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 95,
+                    "operator": 129
+                },
+                {
+                    "Chat_id": 2,
+                    "name": 956,
+                    "message": 10,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 2,
+                    "name": 129,
+                    "message": 80,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 956,
+                    "operator": 129
+                }
+            ]
+        },
+        {
+            "Chat_id": 3,
+            "events": [
+                {
+                    "Chat_id": 3,
+                    "name": 18,
+                    "message": 91,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 3,
+                    "name": 165,
+                    "message": 23,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 18,
+                    "operator": 165,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 3,
+                    "name": 233,
+                    "message": 70,
+                    "date": "05/28/25",
+                    "time": "19:25:39"
+                },
+                {
+                    "Chat_id": 3,
+                    "name": 508,
+                    "message": 9,
+                    "date": "05/28/25",
+                    "time": "19:25:39"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 233,
+                    "operator": 508,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 3,
+                    "name": 324,
+                    "message": 64,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 3,
+                    "name": 458,
+                    "message": 89,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 324,
+                    "operator": 458,
+                    "mark": 1
+                }
+            ]
+        },
+        {
+            "Chat_id": 4,
+            "events": [
+                {
+                    "Chat_id": 4,
+                    "name": 266,
+                    "message": 82,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 4,
+                    "name": 865,
+                    "message": 45,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 266,
+                    "operator": 865,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 4,
+                    "name": 609,
+                    "message": 97,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 4,
+                    "name": 748,
+                    "message": 38,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 609,
+                    "operator": 748,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 4,
+                    "name": 598,
+                    "message": 85,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 4,
+                    "name": 513,
+                    "message": 36,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 598,
+                    "operator": 513
+                }
+            ]
+        },
+        {
+            "Chat_id": 5,
+            "events": [
+                {
+                    "Chat_id": 5,
+                    "name": 58,
+                    "message": 67,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 5,
+                    "name": 929,
+                    "message": 52,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 58,
+                    "operator": 929
+                },
+                {
+                    "Chat_id": 5,
+                    "name": 467,
+                    "message": 22,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 5,
+                    "name": 868,
+                    "message": 21,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 467,
+                    "operator": 868,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 5,
+                    "name": 479,
+                    "message": 27,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 5,
+                    "name": 66,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 479,
+                    "operator": 66,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 6,
+            "events": [
+                {
+                    "Chat_id": 6,
+                    "name": 202,
+                    "message": 59,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 6,
+                    "name": 192,
+                    "message": 63,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 202,
+                    "operator": 192,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 6,
+                    "name": 51,
+                    "message": 9,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 6,
+                    "name": 753,
+                    "message": 100,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 51,
+                    "operator": 753
+                },
+                {
+                    "Chat_id": 6,
+                    "name": 991,
+                    "message": 89,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 6,
+                    "name": 953,
+                    "message": 50,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 991,
+                    "operator": 953
+                }
+            ]
+        },
+        {
+            "Chat_id": 7,
+            "events": [
+                {
+                    "Chat_id": 7,
+                    "name": 691,
+                    "message": 71,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 7,
+                    "name": 729,
+                    "message": 88,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 691,
+                    "operator": 729,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 7,
+                    "name": 102,
+                    "message": 3,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 7,
+                    "name": 419,
+                    "message": 29,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 102,
+                    "operator": 419
+                },
+                {
+                    "Chat_id": 7,
+                    "name": 530,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 7,
+                    "name": 44,
+                    "message": 62,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 530,
+                    "operator": 44
+                }
+            ]
+        },
+        {
+            "Chat_id": 8,
+            "events": [
+                {
+                    "Chat_id": 8,
+                    "name": 133,
+                    "message": 9,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 8,
+                    "name": 352,
+                    "message": 20,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 133,
+                    "operator": 352,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 8,
+                    "name": 315,
+                    "message": 22,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 8,
+                    "name": 875,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 315,
+                    "operator": 875,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 8,
+                    "name": 43,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 8,
+                    "name": 358,
+                    "message": 17,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 43,
+                    "operator": 358
+                }
+            ]
+        },
+        {
+            "Chat_id": 9,
+            "events": [
+                {
+                    "Chat_id": 9,
+                    "name": 836,
+                    "message": 57,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 9,
+                    "name": 267,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 836,
+                    "operator": 267
+                },
+                {
+                    "Chat_id": 9,
+                    "name": 788,
+                    "message": 15,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 9,
+                    "name": 931,
+                    "message": 32,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 788,
+                    "operator": 931,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 9,
+                    "name": 274,
+                    "message": 17,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 9,
+                    "name": 405,
+                    "message": 80,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 274,
+                    "operator": 405,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "Chat_id": 10,
+            "events": [
+                {
+                    "Chat_id": 10,
+                    "name": 775,
+                    "message": 97,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 10,
+                    "name": 580,
+                    "message": 99,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 775,
+                    "operator": 580,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 10,
+                    "name": 869,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 10,
+                    "name": 598,
+                    "message": 39,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 869,
+                    "operator": 598
+                },
+                {
+                    "Chat_id": 10,
+                    "name": 480,
+                    "message": 33,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 10,
+                    "name": 554,
+                    "message": 24,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 480,
+                    "operator": 554
+                }
+            ]
+        },
+        {
+            "Chat_id": 11,
+            "events": [
+                {
+                    "Chat_id": 11,
+                    "name": 536,
+                    "message": 92,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 11,
+                    "name": 656,
+                    "message": 3,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 536,
+                    "operator": 656,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 11,
+                    "name": 645,
+                    "message": 60,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 11,
+                    "name": 367,
+                    "message": 83,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 645,
+                    "operator": 367
+                },
+                {
+                    "Chat_id": 11,
+                    "name": 362,
+                    "message": 90,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 11,
+                    "name": 221,
+                    "message": 15,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 362,
+                    "operator": 221,
+                    "mark": 1
+                }
+            ]
+        },
+        {
+            "Chat_id": 12,
+            "events": [
+                {
+                    "Chat_id": 12,
+                    "name": 103,
+                    "message": 100,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 12,
+                    "name": 641,
+                    "message": 79,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 103,
+                    "operator": 641,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 12,
+                    "name": 296,
+                    "message": 93,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 12,
+                    "name": 670,
+                    "message": 64,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 296,
+                    "operator": 670,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 12,
+                    "name": 899,
+                    "message": 43,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 12,
+                    "name": 367,
+                    "message": 17,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 899,
+                    "operator": 367
+                }
+            ]
+        },
+        {
+            "Chat_id": 13,
+            "events": [
+                {
+                    "Chat_id": 13,
+                    "name": 695,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 13,
+                    "name": 32,
+                    "message": 22,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 695,
+                    "operator": 32,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 13,
+                    "name": 263,
+                    "message": 7,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 13,
+                    "name": 620,
+                    "message": 48,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 263,
+                    "operator": 620
+                },
+                {
+                    "Chat_id": 13,
+                    "name": 938,
+                    "message": 21,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 13,
+                    "name": 413,
+                    "message": 90,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 938,
+                    "operator": 413,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "Chat_id": 14,
+            "events": [
+                {
+                    "Chat_id": 14,
+                    "name": 697,
+                    "message": 78,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 14,
+                    "name": 572,
+                    "message": 98,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 697,
+                    "operator": 572
+                },
+                {
+                    "Chat_id": 14,
+                    "name": 34,
+                    "message": 1,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 14,
+                    "name": 906,
+                    "message": 51,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 34,
+                    "operator": 906,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 14,
+                    "name": 674,
+                    "message": 86,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 14,
+                    "name": 635,
+                    "message": 87,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 674,
+                    "operator": 635,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 15,
+            "events": [
+                {
+                    "Chat_id": 15,
+                    "name": 793,
+                    "message": 84,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 15,
+                    "name": 782,
+                    "message": 58,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 793,
+                    "operator": 782,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 15,
+                    "name": 14,
+                    "message": 82,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 15,
+                    "name": 23,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 14,
+                    "operator": 23,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 15,
+                    "name": 739,
+                    "message": 12,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 15,
+                    "name": 790,
+                    "message": 34,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 739,
+                    "operator": 790,
+                    "mark": 5
+                }
+            ]
+        },
+        {
+            "Chat_id": 16,
+            "events": [
+                {
+                    "Chat_id": 16,
+                    "name": 977,
+                    "message": 60,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 16,
+                    "name": 424,
+                    "message": 30,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 977,
+                    "operator": 424
+                },
+                {
+                    "Chat_id": 16,
+                    "name": 274,
+                    "message": 96,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 16,
+                    "name": 871,
+                    "message": 100,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 274,
+                    "operator": 871
+                },
+                {
+                    "Chat_id": 16,
+                    "name": 542,
+                    "message": 86,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 16,
+                    "name": 435,
+                    "message": 39,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 542,
+                    "operator": 435,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 17,
+            "events": [
+                {
+                    "Chat_id": 17,
+                    "name": 235,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 17,
+                    "name": 570,
+                    "message": 0,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 235,
+                    "operator": 570
+                },
+                {
+                    "Chat_id": 17,
+                    "name": 347,
+                    "message": 98,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 17,
+                    "name": 599,
+                    "message": 72,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 347,
+                    "operator": 599,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 17,
+                    "name": 810,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 17,
+                    "name": 929,
+                    "message": 71,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 810,
+                    "operator": 929,
+                    "mark": 2
+                }
+            ]
+        },
+        {
+            "Chat_id": 18,
+            "events": [
+                {
+                    "Chat_id": 18,
+                    "name": 569,
+                    "message": 57,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 18,
+                    "name": 103,
+                    "message": 30,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 569,
+                    "operator": 103
+                },
+                {
+                    "Chat_id": 18,
+                    "name": 772,
+                    "message": 59,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 18,
+                    "name": 220,
+                    "message": 15,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 772,
+                    "operator": 220,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 18,
+                    "name": 132,
+                    "message": 94,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 18,
+                    "name": 632,
+                    "message": 35,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 132,
+                    "operator": 632
+                }
+            ]
+        },
+        {
+            "Chat_id": 19,
+            "events": [
+                {
+                    "Chat_id": 19,
+                    "name": 807,
+                    "message": 48,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 19,
+                    "name": 277,
+                    "message": 14,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 807,
+                    "operator": 277,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 19,
+                    "name": 357,
+                    "message": 71,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 19,
+                    "name": 249,
+                    "message": 11,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 357,
+                    "operator": 249,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 19,
+                    "name": 143,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 19,
+                    "name": 819,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 143,
+                    "operator": 819
+                }
+            ]
+        },
+        {
+            "Chat_id": 20,
+            "events": [
+                {
+                    "Chat_id": 20,
+                    "name": 211,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 20,
+                    "name": 856,
+                    "message": 36,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 211,
+                    "operator": 856
+                },
+                {
+                    "Chat_id": 20,
+                    "name": 819,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 20,
+                    "name": 456,
+                    "message": 47,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 819,
+                    "operator": 456
+                },
+                {
+                    "Chat_id": 20,
+                    "name": 164,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 20,
+                    "name": 240,
+                    "message": 30,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 164,
+                    "operator": 240,
+                    "mark": 5
+                }
+            ]
+        },
+        {
+            "Chat_id": 21,
+            "events": [
+                {
+                    "Chat_id": 21,
+                    "name": 809,
+                    "message": 36,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 21,
+                    "name": 960,
+                    "message": 92,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 809,
+                    "operator": 960,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 21,
+                    "name": 28,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 21,
+                    "name": 593,
+                    "message": 28,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 28,
+                    "operator": 593
+                },
+                {
+                    "Chat_id": 21,
+                    "name": 788,
+                    "message": 39,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 21,
+                    "name": 259,
+                    "message": 62,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 788,
+                    "operator": 259
+                }
+            ]
+        },
+        {
+            "Chat_id": 22,
+            "events": [
+                {
+                    "Chat_id": 22,
+                    "name": 558,
+                    "message": 25,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 22,
+                    "name": 989,
+                    "message": 26,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 558,
+                    "operator": 989,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 22,
+                    "name": 224,
+                    "message": 14,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 22,
+                    "name": 898,
+                    "message": 85,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 224,
+                    "operator": 898
+                },
+                {
+                    "Chat_id": 22,
+                    "name": 146,
+                    "message": 0,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 22,
+                    "name": 508,
+                    "message": 5,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 146,
+                    "operator": 508
+                }
+            ]
+        },
+        {
+            "Chat_id": 24,
+            "events": [
+                {
+                    "Chat_id": 24,
+                    "name": 991,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 24,
+                    "name": 950,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 991,
+                    "operator": 950
+                },
+                {
+                    "Chat_id": 24,
+                    "name": 29,
+                    "message": 20,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 24,
+                    "name": 979,
+                    "message": 50,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 29,
+                    "operator": 979
+                },
+                {
+                    "Chat_id": 24,
+                    "name": 402,
+                    "message": 79,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 24,
+                    "name": 657,
+                    "message": 98,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 402,
+                    "operator": 657,
+                    "mark": 2
+                }
+            ]
+        },
+        {
+            "Chat_id": 26,
+            "events": [
+                {
+                    "Chat_id": 26,
+                    "name": 141,
+                    "message": 91,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 26,
+                    "name": 129,
+                    "message": 81,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 141,
+                    "operator": 129,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 26,
+                    "name": 901,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 26,
+                    "name": 367,
+                    "message": 76,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 901,
+                    "operator": 367
+                },
+                {
+                    "Chat_id": 26,
+                    "name": 315,
+                    "message": 75,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 26,
+                    "name": 539,
+                    "message": 45,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 315,
+                    "operator": 539,
+                    "mark": 1
+                }
+            ]
+        },
+        {
+            "Chat_id": 27,
+            "events": [
+                {
+                    "Chat_id": 27,
+                    "name": 965,
+                    "message": 24,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 27,
+                    "name": 684,
+                    "message": 66,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 965,
+                    "operator": 684,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 27,
+                    "name": 754,
+                    "message": 7,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 27,
+                    "name": 277,
+                    "message": 54,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 754,
+                    "operator": 277
+                },
+                {
+                    "Chat_id": 27,
+                    "name": 174,
+                    "message": 94,
+                    "date": "05/28/25",
+                    "time": "19:30:34"
+                },
+                {
+                    "Chat_id": 27,
+                    "name": 644,
+                    "message": 98,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 174,
+                    "operator": 644,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 28,
+            "events": [
+                {
+                    "Chat_id": 28,
+                    "name": 125,
+                    "message": 72,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 28,
+                    "name": 738,
+                    "message": 59,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 125,
+                    "operator": 738,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 28,
+                    "name": 94,
+                    "message": 82,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 28,
+                    "name": 721,
+                    "message": 14,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 94,
+                    "operator": 721,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 28,
+                    "name": 557,
+                    "message": 44,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 28,
+                    "name": 925,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 557,
+                    "operator": 925
+                }
+            ]
+        },
+        {
+            "Chat_id": 29,
+            "events": [
+                {
+                    "Chat_id": 29,
+                    "name": 637,
+                    "message": 45,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 29,
+                    "name": 530,
+                    "message": 81,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 637,
+                    "operator": 530,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 29,
+                    "name": 427,
+                    "message": 53,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 29,
+                    "name": 901,
+                    "message": 16,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 427,
+                    "operator": 901
+                },
+                {
+                    "Chat_id": 29,
+                    "name": 226,
+                    "message": 29,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 29,
+                    "name": 57,
+                    "message": 57,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 226,
+                    "operator": 57
+                }
+            ]
+        },
+        {
+            "Chat_id": 30,
+            "events": [
+                {
+                    "Chat_id": 30,
+                    "name": 504,
+                    "message": 57,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 30,
+                    "name": 481,
+                    "message": 13,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 504,
+                    "operator": 481
+                },
+                {
+                    "Chat_id": 30,
+                    "name": 589,
+                    "message": 19,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 30,
+                    "name": 482,
+                    "message": 0,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 589,
+                    "operator": 482
+                },
+                {
+                    "Chat_id": 30,
+                    "name": 811,
+                    "message": 57,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 30,
+                    "name": 444,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 811,
+                    "operator": 444,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 31,
+            "events": [
+                {
+                    "Chat_id": 31,
+                    "name": 253,
+                    "message": 41,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 31,
+                    "name": 407,
+                    "message": 63,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 253,
+                    "operator": 407,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 31,
+                    "name": 625,
+                    "message": 57,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 31,
+                    "name": 368,
+                    "message": 8,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 625,
+                    "operator": 368,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 31,
+                    "name": 314,
+                    "message": 26,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 31,
+                    "name": 752,
+                    "message": 23,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 314,
+                    "operator": 752
+                }
+            ]
+        },
+        {
+            "Chat_id": 32,
+            "events": [
+                {
+                    "Chat_id": 32,
+                    "name": 387,
+                    "message": 6,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 32,
+                    "name": 289,
+                    "message": 1,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 387,
+                    "operator": 289,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 32,
+                    "name": 501,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 32,
+                    "name": 15,
+                    "message": 78,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 501,
+                    "operator": 15,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 32,
+                    "name": 138,
+                    "message": 23,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 32,
+                    "name": 637,
+                    "message": 90,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 138,
+                    "operator": 637
+                }
+            ]
+        },
+        {
+            "Chat_id": 33,
+            "events": [
+                {
+                    "Chat_id": 33,
+                    "name": 387,
+                    "message": 40,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 33,
+                    "name": 961,
+                    "message": 66,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 387,
+                    "operator": 961
+                },
+                {
+                    "Chat_id": 33,
+                    "name": 700,
+                    "message": 56,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 33,
+                    "name": 274,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 700,
+                    "operator": 274,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 33,
+                    "name": 367,
+                    "message": 50,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 33,
+                    "name": 240,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 367,
+                    "operator": 240
+                }
+            ]
+        },
+        {
+            "Chat_id": 34,
+            "events": [
+                {
+                    "Chat_id": 34,
+                    "name": 645,
+                    "message": 81,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 34,
+                    "name": 355,
+                    "message": 69,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 645,
+                    "operator": 355
+                },
+                {
+                    "Chat_id": 34,
+                    "name": 66,
+                    "message": 38,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 34,
+                    "name": 380,
+                    "message": 45,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 66,
+                    "operator": 380
+                },
+                {
+                    "Chat_id": 34,
+                    "name": 737,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 34,
+                    "name": 651,
+                    "message": 40,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 737,
+                    "operator": 651,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 36,
+            "events": [
+                {
+                    "Chat_id": 36,
+                    "name": 186,
+                    "message": 53,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 36,
+                    "name": 109,
+                    "message": 8,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 186,
+                    "operator": 109,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 36,
+                    "name": 981,
+                    "message": 52,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 36,
+                    "name": 788,
+                    "message": 36,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 981,
+                    "operator": 788,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 36,
+                    "name": 916,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 36,
+                    "name": 863,
+                    "message": 85,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 916,
+                    "operator": 863,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 38,
+            "events": [
+                {
+                    "Chat_id": 38,
+                    "name": 890,
+                    "message": 5,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 38,
+                    "name": 755,
+                    "message": 7,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 890,
+                    "operator": 755
+                },
+                {
+                    "Chat_id": 38,
+                    "name": 971,
+                    "message": 31,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 38,
+                    "name": 871,
+                    "message": 53,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 971,
+                    "operator": 871,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 38,
+                    "name": 871,
+                    "message": 23,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 38,
+                    "name": 390,
+                    "message": 73,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 871,
+                    "operator": 390,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 39,
+            "events": [
+                {
+                    "Chat_id": 39,
+                    "name": 329,
+                    "message": 82,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 39,
+                    "name": 596,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 329,
+                    "operator": 596,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 39,
+                    "name": 211,
+                    "message": 63,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 39,
+                    "name": 135,
+                    "message": 30,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 211,
+                    "operator": 135,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 39,
+                    "name": 694,
+                    "message": 95,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 39,
+                    "name": 34,
+                    "message": 66,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 694,
+                    "operator": 34
+                }
+            ]
+        },
+        {
+            "Chat_id": 40,
+            "events": [
+                {
+                    "Chat_id": 40,
+                    "name": 60,
+                    "message": 13,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 40,
+                    "name": 630,
+                    "message": 86,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 60,
+                    "operator": 630,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 40,
+                    "name": 92,
+                    "message": 60,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 40,
+                    "name": 487,
+                    "message": 74,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 92,
+                    "operator": 487
+                },
+                {
+                    "Chat_id": 40,
+                    "name": 938,
+                    "message": 81,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 40,
+                    "name": 684,
+                    "message": 45,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 938,
+                    "operator": 684,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 41,
+            "events": [
+                {
+                    "Chat_id": 41,
+                    "name": 390,
+                    "message": 76,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 41,
+                    "name": 425,
+                    "message": 98,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 390,
+                    "operator": 425,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 41,
+                    "name": 114,
+                    "message": 63,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 41,
+                    "name": 695,
+                    "message": 48,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 114,
+                    "operator": 695
+                },
+                {
+                    "Chat_id": 41,
+                    "name": 366,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 41,
+                    "name": 656,
+                    "message": 94,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 366,
+                    "operator": 656
+                }
+            ]
+        },
+        {
+            "Chat_id": 42,
+            "events": [
+                {
+                    "Chat_id": 42,
+                    "name": 770,
+                    "message": 53,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 42,
+                    "name": 745,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 770,
+                    "operator": 745
+                },
+                {
+                    "Chat_id": 42,
+                    "name": 851,
+                    "message": 17,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 42,
+                    "name": 431,
+                    "message": 15,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 851,
+                    "operator": 431
+                },
+                {
+                    "Chat_id": 42,
+                    "name": 637,
+                    "message": 61,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 42,
+                    "name": 451,
+                    "message": 7,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 637,
+                    "operator": 451,
+                    "mark": 1
+                }
+            ]
+        },
+        {
+            "Chat_id": 43,
+            "events": [
+                {
+                    "Chat_id": 43,
+                    "name": 276,
+                    "message": 79,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 43,
+                    "name": 611,
+                    "message": 35,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 276,
+                    "operator": 611
+                },
+                {
+                    "Chat_id": 43,
+                    "name": 789,
+                    "message": 53,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 43,
+                    "name": 447,
+                    "message": 92,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 789,
+                    "operator": 447,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 43,
+                    "name": 498,
+                    "message": 88,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 43,
+                    "name": 619,
+                    "message": 46,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 498,
+                    "operator": 619,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 44,
+            "events": [
+                {
+                    "Chat_id": 44,
+                    "name": 778,
+                    "message": 6,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 44,
+                    "name": 632,
+                    "message": 45,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 778,
+                    "operator": 632,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 44,
+                    "name": 796,
+                    "message": 74,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 44,
+                    "name": 335,
+                    "message": 22,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 796,
+                    "operator": 335,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 44,
+                    "name": 224,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 44,
+                    "name": 228,
+                    "message": 90,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 224,
+                    "operator": 228
+                }
+            ]
+        },
+        {
+            "Chat_id": 45,
+            "events": [
+                {
+                    "Chat_id": 45,
+                    "name": 896,
+                    "message": 21,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 45,
+                    "name": 826,
+                    "message": 62,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 896,
+                    "operator": 826,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 45,
+                    "name": 946,
+                    "message": 19,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "Chat_id": 45,
+                    "name": 974,
+                    "message": 43,
+                    "date": "05/28/25",
+                    "time": "19:25:40"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 946,
+                    "operator": 974
+                },
+                {
+                    "Chat_id": 45,
+                    "name": 267,
+                    "message": 73,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 45,
+                    "name": 658,
+                    "message": 93,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 267,
+                    "operator": 658
+                }
+            ]
+        },
+        {
+            "Chat_id": 46,
+            "events": [
+                {
+                    "Chat_id": 46,
+                    "name": 827,
+                    "message": 47,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 46,
+                    "name": 884,
+                    "message": 96,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 827,
+                    "operator": 884
+                },
+                {
+                    "Chat_id": 46,
+                    "name": 979,
+                    "message": 10,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 46,
+                    "name": 762,
+                    "message": 52,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 979,
+                    "operator": 762,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 46,
+                    "name": 441,
+                    "message": 71,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 46,
+                    "name": 690,
+                    "message": 15,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 441,
+                    "operator": 690,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "Chat_id": 47,
+            "events": [
+                {
+                    "Chat_id": 47,
+                    "name": 333,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 47,
+                    "name": 566,
+                    "message": 32,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 333,
+                    "operator": 566
+                },
+                {
+                    "Chat_id": 47,
+                    "name": 398,
+                    "message": 100,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 47,
+                    "name": 31,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 398,
+                    "operator": 31,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 47,
+                    "name": 27,
+                    "message": 5,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 47,
+                    "name": 602,
+                    "message": 73,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 27,
+                    "operator": 602
+                }
+            ]
+        },
+        {
+            "Chat_id": 48,
+            "events": [
+                {
+                    "Chat_id": 48,
+                    "name": 227,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 48,
+                    "name": 140,
+                    "message": 72,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 227,
+                    "operator": 140,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 48,
+                    "name": 577,
+                    "message": 60,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 48,
+                    "name": 240,
+                    "message": 93,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 577,
+                    "operator": 240
+                },
+                {
+                    "Chat_id": 48,
+                    "name": 785,
+                    "message": 93,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 48,
+                    "name": 716,
+                    "message": 81,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 785,
+                    "operator": 716,
+                    "mark": 1
+                }
+            ]
+        },
+        {
+            "Chat_id": 49,
+            "events": [
+                {
+                    "Chat_id": 49,
+                    "name": 98,
+                    "message": 17,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 49,
+                    "name": 987,
+                    "message": 62,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 98,
+                    "operator": 987,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 49,
+                    "name": 407,
+                    "message": 21,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 49,
+                    "name": 420,
+                    "message": 50,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 407,
+                    "operator": 420
+                },
+                {
+                    "Chat_id": 49,
+                    "name": 590,
+                    "message": 93,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 49,
+                    "name": 987,
+                    "message": 88,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 590,
+                    "operator": 987
+                }
+            ]
+        },
+        {
+            "Chat_id": 50,
+            "events": [
+                {
+                    "Chat_id": 50,
+                    "name": 772,
+                    "message": 20,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 50,
+                    "name": 40,
+                    "message": 47,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 772,
+                    "operator": 40,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 50,
+                    "name": 501,
+                    "message": 45,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 50,
+                    "name": 762,
+                    "message": 93,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 501,
+                    "operator": 762,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 50,
+                    "name": 857,
+                    "message": 41,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 50,
+                    "name": 109,
+                    "message": 62,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 857,
+                    "operator": 109
+                }
+            ]
+        },
+        {
+            "Chat_id": 51,
+            "events": [
+                {
+                    "Chat_id": 51,
+                    "name": 193,
+                    "message": 1,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 51,
+                    "name": 392,
+                    "message": 28,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 193,
+                    "operator": 392
+                },
+                {
+                    "Chat_id": 51,
+                    "name": 409,
+                    "message": 94,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 51,
+                    "name": 973,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 409,
+                    "operator": 973
+                },
+                {
+                    "Chat_id": 51,
+                    "name": 428,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 51,
+                    "name": 648,
+                    "message": 59,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 428,
+                    "operator": 648,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "Chat_id": 52,
+            "events": [
+                {
+                    "Chat_id": 52,
+                    "name": 785,
+                    "message": 83,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 52,
+                    "name": 391,
+                    "message": 27,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 785,
+                    "operator": 391
+                },
+                {
+                    "Chat_id": 52,
+                    "name": 695,
+                    "message": 13,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 52,
+                    "name": 463,
+                    "message": 55,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 695,
+                    "operator": 463
+                },
+                {
+                    "Chat_id": 52,
+                    "name": 572,
+                    "message": 80,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 52,
+                    "name": 141,
+                    "message": 41,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 572,
+                    "operator": 141,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 53,
+            "events": [
+                {
+                    "Chat_id": 53,
+                    "name": 455,
+                    "message": 17,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 53,
+                    "name": 589,
+                    "message": 30,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 455,
+                    "operator": 589,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 53,
+                    "name": 880,
+                    "message": 1,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 53,
+                    "name": 26,
+                    "message": 66,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 880,
+                    "operator": 26,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 53,
+                    "name": 543,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 53,
+                    "name": 769,
+                    "message": 69,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 543,
+                    "operator": 769,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 54,
+            "events": [
+                {
+                    "Chat_id": 54,
+                    "name": 490,
+                    "message": 0,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 54,
+                    "name": 15,
+                    "message": 15,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 490,
+                    "operator": 15
+                },
+                {
+                    "Chat_id": 54,
+                    "name": 856,
+                    "message": 42,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 54,
+                    "name": 100,
+                    "message": 47,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 856,
+                    "operator": 100
+                },
+                {
+                    "Chat_id": 54,
+                    "name": 748,
+                    "message": 42,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 54,
+                    "name": 286,
+                    "message": 8,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 748,
+                    "operator": 286,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "Chat_id": 56,
+            "events": [
+                {
+                    "Chat_id": 56,
+                    "name": 919,
+                    "message": 23,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 56,
+                    "name": 240,
+                    "message": 99,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 919,
+                    "operator": 240,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 56,
+                    "name": 610,
+                    "message": 76,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 56,
+                    "name": 726,
+                    "message": 79,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 610,
+                    "operator": 726
+                },
+                {
+                    "Chat_id": 56,
+                    "name": 366,
+                    "message": 78,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 56,
+                    "name": 0,
+                    "message": 98,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 366,
+                    "operator": 0,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 57,
+            "events": [
+                {
+                    "Chat_id": 57,
+                    "name": 723,
+                    "message": 97,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 57,
+                    "name": 682,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 723,
+                    "operator": 682,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 57,
+                    "name": 49,
+                    "message": 38,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 57,
+                    "name": 648,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 49,
+                    "operator": 648,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 57,
+                    "name": 202,
+                    "message": 35,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 57,
+                    "name": 106,
+                    "message": 15,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 202,
+                    "operator": 106,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 58,
+            "events": [
+                {
+                    "Chat_id": 58,
+                    "name": 225,
+                    "message": 56,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 58,
+                    "name": 300,
+                    "message": 94,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 225,
+                    "operator": 300,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 58,
+                    "name": 221,
+                    "message": 30,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 58,
+                    "name": 499,
+                    "message": 22,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 221,
+                    "operator": 499,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 58,
+                    "name": 336,
+                    "message": 39,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 58,
+                    "name": 554,
+                    "message": 34,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 336,
+                    "operator": 554
+                }
+            ]
+        },
+        {
+            "Chat_id": 60,
+            "events": [
+                {
+                    "Chat_id": 60,
+                    "name": 609,
+                    "message": 60,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 60,
+                    "name": 441,
+                    "message": 8,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 609,
+                    "operator": 441,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 60,
+                    "name": 355,
+                    "message": 40,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 60,
+                    "name": 307,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 355,
+                    "operator": 307,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 60,
+                    "name": 718,
+                    "message": 86,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "Chat_id": 60,
+                    "name": 211,
+                    "message": 22,
+                    "date": "05/28/25",
+                    "time": "19:30:35"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 718,
+                    "operator": 211,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 61,
+            "events": [
+                {
+                    "Chat_id": 61,
+                    "name": 649,
+                    "message": 59,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 61,
+                    "name": 734,
+                    "message": 87,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 649,
+                    "operator": 734,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 61,
+                    "name": 701,
+                    "message": 97,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 61,
+                    "name": 163,
+                    "message": 34,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 701,
+                    "operator": 163
+                },
+                {
+                    "Chat_id": 61,
+                    "name": 221,
+                    "message": 89,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 61,
+                    "name": 93,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 221,
+                    "operator": 93,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 62,
+            "events": [
+                {
+                    "Chat_id": 62,
+                    "name": 734,
+                    "message": 30,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 62,
+                    "name": 43,
+                    "message": 46,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 734,
+                    "operator": 43,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 62,
+                    "name": 870,
+                    "message": 71,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 62,
+                    "name": 117,
+                    "message": 51,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 870,
+                    "operator": 117,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 62,
+                    "name": 917,
+                    "message": 66,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 62,
+                    "name": 806,
+                    "message": 92,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 917,
+                    "operator": 806,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 63,
+            "events": [
+                {
+                    "Chat_id": 63,
+                    "name": 880,
+                    "message": 42,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 63,
+                    "name": 553,
+                    "message": 86,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 880,
+                    "operator": 553,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 63,
+                    "name": 247,
+                    "message": 81,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 63,
+                    "name": 923,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 247,
+                    "operator": 923
+                },
+                {
+                    "Chat_id": 63,
+                    "name": 849,
+                    "message": 28,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 63,
+                    "name": 64,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 849,
+                    "operator": 64,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 64,
+            "events": [
+                {
+                    "Chat_id": 64,
+                    "name": 718,
+                    "message": 35,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 64,
+                    "name": 409,
+                    "message": 14,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 718,
+                    "operator": 409
+                },
+                {
+                    "Chat_id": 64,
+                    "name": 559,
+                    "message": 59,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 64,
+                    "name": 457,
+                    "message": 14,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 559,
+                    "operator": 457,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 64,
+                    "name": 579,
+                    "message": 74,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 64,
+                    "name": 838,
+                    "message": 23,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 579,
+                    "operator": 838
+                }
+            ]
+        },
+        {
+            "Chat_id": 65,
+            "events": [
+                {
+                    "Chat_id": 65,
+                    "name": 93,
+                    "message": 6,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "Chat_id": 65,
+                    "name": 909,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:23:21"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 93,
+                    "operator": 909
+                },
+                {
+                    "Chat_id": 65,
+                    "name": 596,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 65,
+                    "name": 132,
+                    "message": 19,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 596,
+                    "operator": 132
+                },
+                {
+                    "Chat_id": 65,
+                    "name": 953,
+                    "message": 43,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 65,
+                    "name": 279,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 953,
+                    "operator": 279,
+                    "mark": 5
+                }
+            ]
+        },
+        {
+            "Chat_id": 67,
+            "events": [
+                {
+                    "Chat_id": 67,
+                    "name": 207,
+                    "message": 58,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 67,
+                    "name": 901,
+                    "message": 97,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 207,
+                    "operator": 901,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 67,
+                    "name": 605,
+                    "message": 26,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 67,
+                    "name": 667,
+                    "message": 69,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 605,
+                    "operator": 667
+                },
+                {
+                    "Chat_id": 67,
+                    "name": 181,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 67,
+                    "name": 177,
+                    "message": 80,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 181,
+                    "operator": 177,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "Chat_id": 68,
+            "events": [
+                {
+                    "Chat_id": 68,
+                    "name": 929,
+                    "message": 38,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 68,
+                    "name": 997,
+                    "message": 88,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 929,
+                    "operator": 997
+                },
+                {
+                    "Chat_id": 68,
+                    "name": 451,
+                    "message": 95,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 68,
+                    "name": 555,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 451,
+                    "operator": 555
+                },
+                {
+                    "Chat_id": 68,
+                    "name": 218,
+                    "message": 63,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 68,
+                    "name": 2,
+                    "message": 40,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 218,
+                    "operator": 2,
+                    "mark": 2
+                }
+            ]
+        },
+        {
+            "Chat_id": 69,
+            "events": [
+                {
+                    "Chat_id": 69,
+                    "name": 385,
+                    "message": 93,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 69,
+                    "name": 794,
+                    "message": 56,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 385,
+                    "operator": 794,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 69,
+                    "name": 55,
+                    "message": 99,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 69,
+                    "name": 630,
+                    "message": 67,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 55,
+                    "operator": 630,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 69,
+                    "name": 27,
+                    "message": 41,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 69,
+                    "name": 239,
+                    "message": 62,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 27,
+                    "operator": 239
+                }
+            ]
+        },
+        {
+            "Chat_id": 70,
+            "events": [
+                {
+                    "Chat_id": 70,
+                    "name": 399,
+                    "message": 71,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 70,
+                    "name": 207,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 399,
+                    "operator": 207
+                },
+                {
+                    "Chat_id": 70,
+                    "name": 626,
+                    "message": 59,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 70,
+                    "name": 919,
+                    "message": 42,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 626,
+                    "operator": 919,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 70,
+                    "name": 665,
+                    "message": 25,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 70,
+                    "name": 450,
+                    "message": 75,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 665,
+                    "operator": 450
+                }
+            ]
+        },
+        {
+            "Chat_id": 73,
+            "events": [
+                {
+                    "Chat_id": 73,
+                    "name": 353,
+                    "message": 47,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 73,
+                    "name": 598,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 353,
+                    "operator": 598,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 73,
+                    "name": 351,
+                    "message": 16,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 73,
+                    "name": 172,
+                    "message": 94,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 351,
+                    "operator": 172
+                },
+                {
+                    "Chat_id": 73,
+                    "name": 32,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 73,
+                    "name": 723,
+                    "message": 28,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 32,
+                    "operator": 723
+                }
+            ]
+        },
+        {
+            "Chat_id": 75,
+            "events": [
+                {
+                    "Chat_id": 75,
+                    "name": 123,
+                    "message": 97,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 75,
+                    "name": 331,
+                    "message": 88,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 123,
+                    "operator": 331,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 75,
+                    "name": 514,
+                    "message": 25,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 75,
+                    "name": 706,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 514,
+                    "operator": 706,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 75,
+                    "name": 949,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 75,
+                    "name": 201,
+                    "message": 97,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 949,
+                    "operator": 201
+                }
+            ]
+        },
+        {
+            "Chat_id": 76,
+            "events": [
+                {
+                    "Chat_id": 76,
+                    "name": 97,
+                    "message": 38,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 76,
+                    "name": 473,
+                    "message": 58,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 97,
+                    "operator": 473,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 76,
+                    "name": 976,
+                    "message": 80,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 76,
+                    "name": 351,
+                    "message": 87,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 976,
+                    "operator": 351,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 76,
+                    "name": 326,
+                    "message": 71,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 76,
+                    "name": 607,
+                    "message": 24,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 326,
+                    "operator": 607
+                }
+            ]
+        },
+        {
+            "Chat_id": 77,
+            "events": [
+                {
+                    "Chat_id": 77,
+                    "name": 10,
+                    "message": 67,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 77,
+                    "name": 831,
+                    "message": 95,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 10,
+                    "operator": 831,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 77,
+                    "name": 969,
+                    "message": 20,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 77,
+                    "name": 267,
+                    "message": 86,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 969,
+                    "operator": 267,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 77,
+                    "name": 58,
+                    "message": 38,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 77,
+                    "name": 900,
+                    "message": 38,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 58,
+                    "operator": 900,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "Chat_id": 78,
+            "events": [
+                {
+                    "Chat_id": 78,
+                    "name": 193,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 78,
+                    "name": 271,
+                    "message": 88,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 193,
+                    "operator": 271
+                },
+                {
+                    "Chat_id": 78,
+                    "name": 990,
+                    "message": 92,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 78,
+                    "name": 68,
+                    "message": 53,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 990,
+                    "operator": 68,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 78,
+                    "name": 602,
+                    "message": 81,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 78,
+                    "name": 868,
+                    "message": 15,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 602,
+                    "operator": 868
+                }
+            ]
+        },
+        {
+            "Chat_id": 79,
+            "events": [
+                {
+                    "Chat_id": 79,
+                    "name": 948,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 79,
+                    "name": 725,
+                    "message": 51,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 948,
+                    "operator": 725,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 79,
+                    "name": 710,
+                    "message": 85,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 79,
+                    "name": 557,
+                    "message": 82,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 710,
+                    "operator": 557,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 79,
+                    "name": 380,
+                    "message": 36,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 79,
+                    "name": 747,
+                    "message": 2,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 380,
+                    "operator": 747
+                }
+            ]
+        },
+        {
+            "Chat_id": 80,
+            "events": [
+                {
+                    "Chat_id": 80,
+                    "name": 363,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 80,
+                    "name": 338,
+                    "message": 97,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 363,
+                    "operator": 338,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 80,
+                    "name": 14,
+                    "message": 51,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 80,
+                    "name": 912,
+                    "message": 70,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 14,
+                    "operator": 912,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 80,
+                    "name": 669,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 80,
+                    "name": 393,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 669,
+                    "operator": 393
+                }
+            ]
+        },
+        {
+            "Chat_id": 81,
+            "events": [
+                {
+                    "Chat_id": 81,
+                    "name": 411,
+                    "message": 16,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 81,
+                    "name": 51,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 411,
+                    "operator": 51
+                },
+                {
+                    "Chat_id": 81,
+                    "name": 98,
+                    "message": 57,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 81,
+                    "name": 183,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 98,
+                    "operator": 183,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 81,
+                    "name": 126,
+                    "message": 74,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 81,
+                    "name": 371,
+                    "message": 25,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 126,
+                    "operator": 371
+                }
+            ]
+        },
+        {
+            "Chat_id": 83,
+            "events": [
+                {
+                    "Chat_id": 83,
+                    "name": 573,
+                    "message": 39,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 83,
+                    "name": 238,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 573,
+                    "operator": 238,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 83,
+                    "name": 975,
+                    "message": 29,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 83,
+                    "name": 495,
+                    "message": 52,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 975,
+                    "operator": 495
+                },
+                {
+                    "Chat_id": 83,
+                    "name": 146,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 83,
+                    "name": 190,
+                    "message": 94,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 146,
+                    "operator": 190
+                }
+            ]
+        },
+        {
+            "Chat_id": 84,
+            "events": [
+                {
+                    "Chat_id": 84,
+                    "name": 528,
+                    "message": 14,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 84,
+                    "name": 651,
+                    "message": 61,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 528,
+                    "operator": 651,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 84,
+                    "name": 76,
+                    "message": 67,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 84,
+                    "name": 788,
+                    "message": 39,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 76,
+                    "operator": 788
+                },
+                {
+                    "Chat_id": 84,
+                    "name": 947,
+                    "message": 17,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 84,
+                    "name": 92,
+                    "message": 100,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 947,
+                    "operator": 92
+                }
+            ]
+        },
+        {
+            "Chat_id": 86,
+            "events": [
+                {
+                    "Chat_id": 86,
+                    "name": 869,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 86,
+                    "name": 146,
+                    "message": 7,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 869,
+                    "operator": 146
+                },
+                {
+                    "Chat_id": 86,
+                    "name": 115,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:25:41"
+                },
+                {
+                    "Chat_id": 86,
+                    "name": 873,
+                    "message": 96,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 115,
+                    "operator": 873,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 86,
+                    "name": 559,
+                    "message": 94,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 86,
+                    "name": 840,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 559,
+                    "operator": 840,
+                    "mark": 2
+                }
+            ]
+        },
+        {
+            "Chat_id": 87,
+            "events": [
+                {
+                    "Chat_id": 87,
+                    "name": 858,
+                    "message": 42,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 87,
+                    "name": 994,
+                    "message": 72,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 858,
+                    "operator": 994,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 87,
+                    "name": 449,
+                    "message": 0,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 87,
+                    "name": 534,
+                    "message": 13,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 449,
+                    "operator": 534,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 87,
+                    "name": 239,
+                    "message": 85,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 87,
+                    "name": 25,
+                    "message": 17,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 239,
+                    "operator": 25
+                }
+            ]
+        },
+        {
+            "Chat_id": 88,
+            "events": [
+                {
+                    "Chat_id": 88,
+                    "name": 291,
+                    "message": 75,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 88,
+                    "name": 552,
+                    "message": 80,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 291,
+                    "operator": 552
+                },
+                {
+                    "Chat_id": 88,
+                    "name": 729,
+                    "message": 99,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 88,
+                    "name": 476,
+                    "message": 6,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 729,
+                    "operator": 476,
+                    "mark": 2
+                },
+                {
+                    "Chat_id": 88,
+                    "name": 117,
+                    "message": 27,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 88,
+                    "name": 198,
+                    "message": 58,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 117,
+                    "operator": 198,
+                    "mark": 1
+                }
+            ]
+        },
+        {
+            "Chat_id": 89,
+            "events": [
+                {
+                    "Chat_id": 89,
+                    "name": 268,
+                    "message": 27,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 89,
+                    "name": 119,
+                    "message": 52,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 268,
+                    "operator": 119
+                },
+                {
+                    "Chat_id": 89,
+                    "name": 1000,
+                    "message": 73,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 89,
+                    "name": 188,
+                    "message": 26,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 1000,
+                    "operator": 188
+                },
+                {
+                    "Chat_id": 89,
+                    "name": 936,
+                    "message": 13,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 89,
+                    "name": 84,
+                    "message": 62,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 936,
+                    "operator": 84,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 90,
+            "events": [
+                {
+                    "Chat_id": 90,
+                    "name": 658,
+                    "message": 26,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 90,
+                    "name": 637,
+                    "message": 66,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 658,
+                    "operator": 637,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 90,
+                    "name": 375,
+                    "message": 49,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 90,
+                    "name": 186,
+                    "message": 86,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 375,
+                    "operator": 186
+                },
+                {
+                    "Chat_id": 90,
+                    "name": 585,
+                    "message": 91,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 90,
+                    "name": 744,
+                    "message": 100,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 585,
+                    "operator": 744
+                }
+            ]
+        },
+        {
+            "Chat_id": 91,
+            "events": [
+                {
+                    "Chat_id": 91,
+                    "name": 618,
+                    "message": 65,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 91,
+                    "name": 527,
+                    "message": 3,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 618,
+                    "operator": 527,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 91,
+                    "name": 271,
+                    "message": 21,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 91,
+                    "name": 392,
+                    "message": 38,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 271,
+                    "operator": 392
+                },
+                {
+                    "Chat_id": 91,
+                    "name": 465,
+                    "message": 95,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 91,
+                    "name": 720,
+                    "message": 82,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 465,
+                    "operator": 720,
+                    "mark": 4
+                }
+            ]
+        },
+        {
+            "Chat_id": 92,
+            "events": [
+                {
+                    "Chat_id": 92,
+                    "name": 495,
+                    "message": 99,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 92,
+                    "name": 446,
+                    "message": 93,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 495,
+                    "operator": 446
+                },
+                {
+                    "Chat_id": 92,
+                    "name": 627,
+                    "message": 68,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 92,
+                    "name": 447,
+                    "message": 16,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 627,
+                    "operator": 447
+                },
+                {
+                    "Chat_id": 92,
+                    "name": 695,
+                    "message": 59,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 92,
+                    "name": 366,
+                    "message": 9,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 695,
+                    "operator": 366,
+                    "mark": null
+                }
+            ]
+        },
+        {
+            "Chat_id": 93,
+            "events": [
+                {
+                    "Chat_id": 93,
+                    "name": 61,
+                    "message": 75,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 93,
+                    "name": 363,
+                    "message": 67,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 61,
+                    "operator": 363,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 93,
+                    "name": 791,
+                    "message": 20,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 93,
+                    "name": 411,
+                    "message": 21,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 791,
+                    "operator": 411,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 93,
+                    "name": 175,
+                    "message": 19,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "Chat_id": 93,
+                    "name": 494,
+                    "message": 28,
+                    "date": "05/28/25",
+                    "time": "19:30:36"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 175,
+                    "operator": 494
+                }
+            ]
+        },
+        {
+            "Chat_id": 95,
+            "events": [
+                {
+                    "Chat_id": 95,
+                    "name": 390,
+                    "message": 37,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 95,
+                    "name": 66,
+                    "message": 50,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 390,
+                    "operator": 66,
+                    "mark": 4
+                },
+                {
+                    "Chat_id": 95,
+                    "name": 104,
+                    "message": 45,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 95,
+                    "name": 3,
+                    "message": 4,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 104,
+                    "operator": 3,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 95,
+                    "name": 900,
+                    "message": 57,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "Chat_id": 95,
+                    "name": 695,
+                    "message": 75,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 900,
+                    "operator": 695
+                }
+            ]
+        },
+        {
+            "Chat_id": 96,
+            "events": [
+                {
+                    "Chat_id": 96,
+                    "name": 581,
+                    "message": 19,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 96,
+                    "name": 755,
+                    "message": 27,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 581,
+                    "operator": 755
+                },
+                {
+                    "Chat_id": 96,
+                    "name": 196,
+                    "message": 60,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 96,
+                    "name": 380,
+                    "message": 70,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 196,
+                    "operator": 380,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 96,
+                    "name": 437,
+                    "message": 75,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "Chat_id": 96,
+                    "name": 241,
+                    "message": 20,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 437,
+                    "operator": 241,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "Chat_id": 97,
+            "events": [
+                {
+                    "Chat_id": 97,
+                    "name": 840,
+                    "message": 22,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 97,
+                    "name": 538,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 840,
+                    "operator": 538
+                },
+                {
+                    "Chat_id": 97,
+                    "name": 340,
+                    "message": 66,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 97,
+                    "name": 542,
+                    "message": 81,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 340,
+                    "operator": 542,
+                    "mark": 5
+                },
+                {
+                    "Chat_id": 97,
+                    "name": 658,
+                    "message": 29,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "Chat_id": 97,
+                    "name": 509,
+                    "message": 3,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 658,
+                    "operator": 509
+                }
+            ]
+        },
+        {
+            "Chat_id": 98,
+            "events": [
+                {
+                    "Chat_id": 98,
+                    "name": 242,
+                    "message": 2,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 98,
+                    "name": 155,
+                    "message": 82,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 242,
+                    "operator": 155,
+                    "mark": 1
+                },
+                {
+                    "Chat_id": 98,
+                    "name": 663,
+                    "message": 61,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 98,
+                    "name": 751,
+                    "message": 87,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 663,
+                    "operator": 751,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 98,
+                    "name": 805,
+                    "message": 77,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "Chat_id": 98,
+                    "name": 861,
+                    "message": 72,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "чат не завершен",
+                    "user": 805,
+                    "operator": 861
+                }
+            ]
+        },
+        {
+            "Chat_id": 99,
+            "events": [
+                {
+                    "Chat_id": 99,
+                    "name": 511,
+                    "message": 58,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "Chat_id": 99,
+                    "name": 193,
+                    "message": 50,
+                    "date": "05/28/25",
+                    "time": "19:23:22"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 511,
+                    "operator": 193,
+                    "mark": 3
+                },
+                {
+                    "Chat_id": 99,
+                    "name": 47,
+                    "message": 18,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "Chat_id": 99,
+                    "name": 628,
+                    "message": 14,
+                    "date": "05/28/25",
+                    "time": "19:25:42"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 47,
+                    "operator": 628,
+                    "mark": null
+                },
+                {
+                    "Chat_id": 99,
+                    "name": 327,
+                    "message": 61,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "Chat_id": 99,
+                    "name": 649,
+                    "message": 70,
+                    "date": "05/28/25",
+                    "time": "19:30:37"
+                },
+                {
+                    "action": "Завершение чата",
+                    "status": "успешно завершен",
+                    "user": 327,
+                    "operator": 649,
+                    "mark": 2
+                }
+            ]
+        }
+    ]
+}
